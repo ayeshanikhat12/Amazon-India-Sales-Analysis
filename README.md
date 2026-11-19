@@ -129,7 +129,7 @@ The Power BI dashboard was developed to visualize sales performance and provide 
 
 <!-- Dashboard Screenshot -->
 
-![Amazon India Sales Dashboard](images/dashboard.png)
+![Amazon India Sales Dashboard](https://github.com/ayeshanikhat12/Amazon-India-Sales-Analysis/blob/20377d356b545e8d2f8782a2cf91152ca263e572/dashbord.png)
 
 ### Dashboard Features
 
